@@ -1,5 +1,8 @@
 # Coffee Shop Daily Revenue Prediction
-This project aims to predicting daily revenue for a coffee shop using machine-learning with a Random Forest model. By using a Kaggle dataset that includes daily revenue records for a coffee shop (or shops) along with relevant input features that may help predict revenue.
+ 
+This project uses machine learning to predict the daily revenue of a coffee shop based on key operational and marketing factors.
+The dataset (2,000 records) includes customer traffic, order values, operating hours, staffing levels, marketing spend, and foot traffic.
+The goal was to identify the most influential factors driving sales and to compare two tree-based ensemble models: Random Forest and XGBoost.
 
 # Dataset Description
 *Columns:* 
